@@ -25,7 +25,7 @@ The dataset contains information such as:
 - Credit History
 - Property Area
 - Loan Status
-- 
+
 ## Technologies Used
 - Python
 - Pandas
@@ -68,6 +68,15 @@ Key findings:
 - Applicants with stable income have higher approval chances
 - Proper preprocessing improves model performance significantly
 
+## Files Included
+Loan-Approval-Prediction/
+│
+├── dataset/
+├── notebook/
+├── images/
+├── report/
+├── README.md
+└── requirements.txt
 
 ## Future Improvements
 - Hyperparameter tuning
@@ -77,10 +86,8 @@ Key findings:
 
 ## Internship Details
 Company: Alfido Tech
-
 Task: Loan Approval Prediction
-
 Domain: Machine Learning / Data Science
 
 ## Author
-D Likitha Sai
+M Vignesh
